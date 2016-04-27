@@ -9,8 +9,10 @@ The code for this package is originally by Jay Anderson, and taken from [OpenLil
 
 ## Installation
 
+Install using [lyp](https://github.com/noteflakes/lyp):
+
 ```bash
-lyp install merge-rests
+$ lyp install merge-rests
 ```
 
 ## Usage
